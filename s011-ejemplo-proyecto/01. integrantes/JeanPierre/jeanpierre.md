@@ -5,6 +5,15 @@
 # ¿Cual es mi experiencia en desarrollo de software?
 Mi experiencia se centra en el desarrollo de software a través de proyectos personales. Tengo un sólido conocimiento de herramientas web y móviles, incluyendo React, Angular, Express, Kotlin y Flutter, entre otras. También manejo plataformas en la nube como Google Cloud y Firebase, así como integraciones con APIs externas.
 
+# ¿Que tecnologias conozco o domino?
+Tengo un sólido conocimiento de herramientas web y móviles, incluyendo React, Angular, Express, Kotlin y Flutter, entre otras. También manejo plataformas en la nube como Google Cloud y Firebase, así como integraciones con APIs externas.
+
+# ¿Cual es mi expectativa del curso?
+Espero profundizar en el desarrollo de software con un enfoque en la creación de código limpio y escalable. Me interesa especialmente aprender sobre las mejores prácticas y patrones de diseño que faciliten la arquitectura de software eficiente y mantenible.
+
+# ¿Como me veo en 10 años?
+Me veo laborando en una empresa extranjera de forma remota dirijiendo equipos de software,siguiendo las normativas de la empresa.
+
 
 [Ver integrantes](../integrantes.md)
 

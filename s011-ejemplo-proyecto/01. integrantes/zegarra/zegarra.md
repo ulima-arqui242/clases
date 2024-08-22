@@ -1,5 +1,5 @@
 # Flavio Zegarra
-
+![Flavio Zegarra](zegarra.png)
 ### Nombre y Carrera
  - Flavio Zegarra - Ingeniería de Sistemas
 

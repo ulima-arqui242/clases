@@ -1,7 +1,7 @@
 # Integrantes del grupo
 
 - [Juan Alva](Juan/juan.md)
-- [Jean Pierre Tinco](Jeanpierre/jeanpierre.md)
+- [Jean Pierre Tinco](JeanPierre/jeanpierre.md)
 - [Sebastian Camayo](Sebastian/sebastian.md)
 - [Milagros Corbera](Milagros/milagros.md)
 - [Junior Huaman](Junior/junior.md)

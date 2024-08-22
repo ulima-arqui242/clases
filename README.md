@@ -13,7 +13,7 @@ Arquitectura de Software 1030 - Universidad de Lima (2024-2)
 
     - Huaman Rojas, Junior Fabrizio
 ## 2. Proyecto
-    - Descripcion
+      ### Descripcion
       HomeSync es una plataforma web diseñada para la gestión integral de hogares, con un enfoque inicial en propietarios de viviendas y arrendadores. La aplicación facilita la 
       administración y coordinación de todos los aspectos del hogar, desde el mantenimiento y reparaciones hasta la gestión de alquileres y la planificación de presupuestos. El objetivo 
       principal de HomeSync es proporcionar una herramienta eficiente y fácil de usar que permita a los usuarios optimizar la administración de sus propiedades, mejorar la comunicación 

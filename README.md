@@ -1,2 +1,4 @@
-# clases
-Código del curso de Arquitectura de Software 2024-2
+# Grupo 4
+Arquitectura de Software 1030 - Universidad de Lima (2024-2)
+
+# Indice

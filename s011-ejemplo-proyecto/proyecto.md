@@ -46,3 +46,15 @@ InStudio tiene dos segmentos principales de clientes:
 A continuación, se detallan las características y necesidades de cada segmento:
 - **Salones de Belleza (PYMES)** : Este segmento incluye a pequeños y medianos salones de belleza que buscan aumentar su visibilidad, atraer más clientes y optimizar la gestión de sus servicios. (Salones Nuevos o Emergentes, Salones Establecidos con Baja Presencia Digital)
 - **Clientes Usuarios Finales** : Personas que buscan acceder a servicios de belleza de manera conveniente, comparando opciones según sus necesidades y preferencias. (Adultos Jóvenes (18-35 años), Profesionales Ocupados)
+
+***Canales de Distribución:***
+***Relaciones con clientes:***
+***Fuentes de Ingresos:***
+***Recursos Clave***
+***Actividades Clave***
+***Socios Clave:***
+***Estructura de Costos:***
+
+
+**1.3. Estructura del Equipo**
+

@@ -12,7 +12,7 @@ Tengo un sólido conocimiento de herramientas web y móviles, incluyendo React, 
 Espero profundizar en el desarrollo de software con un enfoque en la creación de código limpio y escalable. Me interesa especialmente aprender sobre las mejores prácticas y patrones de diseño que faciliten la arquitectura de software eficiente y mantenible.
 
 # ¿Como me veo en 10 años?
-Me veo laborando en una empresa extranjera de forma remota dirijiendo equipos de software,siguiendo las normativas de la empresa.
+Me visualizo trabajando para una empresa internacional de forma remota, liderando equipos de desarrollo de software y asegurando el cumplimiento de las normativas de la empresa.
 
 
 [Ver integrantes](../integrantes.md)

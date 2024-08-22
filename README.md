@@ -2,13 +2,13 @@
 Arquitectura de Software 1030 - Universidad de Lima (2024-2)
 
 # Indice
--**Alva Larios, Juan José**
+- Alva Larios, Juan José
 
--**Tinco Bellido,Jean Pierre**
+- Tinco Bellido,Jean Pierre
 
--**Corbera Torres, Milagros**
+- Corbera Torres, Milagros
 
--**Camayo Ramos, Sebastián Enrique**
+- Camayo Ramos, Sebastián Enrique
 
--**Huaman Rojas, Junior Fabrizio**
+- Huaman Rojas, Junior Fabrizio
 

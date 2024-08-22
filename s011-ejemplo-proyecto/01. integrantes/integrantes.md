@@ -3,5 +3,6 @@
 - [Elon Musk](musk/musk.md)
 - [Jeff Bezos](bezos/bezos.md)
 - [Bill Gates](gates/gates.md)
+- [Andrea Llerena](llerena/andrea.md)
 
 [Regresar al índice](../proyecto.md)

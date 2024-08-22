@@ -35,3 +35,14 @@ Tras la pandemia, el sector de la belleza en Perú no se ha podido recuperar y a
 - **Comodidad y Facilidad de Uso:** InStudio permite a los usuarios explorar y comparar múltiples opciones de salones de belleza desde la comodidad de sus hogares, con información detallada y actualizada sobre servicios, precios, y horarios.
 - **Transparencia y Confianza:** Los usuarios pueden tomar decisiones informadas basadas en las reseñas y valoraciones de otros clientes, asegurándose de recibir un servicio de calidad.
 - **Ofertas y Promociones Exclusivas:** Los clientes pueden acceder a ofertas especiales y descuentos exclusivos al reservar a través de la plataforma, lo que les permite ahorrar dinero mientras disfrutan de servicios de belleza.
+
+***Segmento de Clientes***:
+
+InStudio tiene dos segmentos principales de clientes:
+
+- Salones de Belleza (PYMES)
+- Clientes Usuarios Finales
+
+A continuación, se detallan las características y necesidades de cada segmento:
+- **Salones de Belleza (PYMES)** : Este segmento incluye a pequeños y medianos salones de belleza que buscan aumentar su visibilidad, atraer más clientes y optimizar la gestión de sus servicios. (Salones Nuevos o Emergentes, Salones Establecidos con Baja Presencia Digital)
+- **Clientes Usuarios Finales** : Personas que buscan acceder a servicios de belleza de manera conveniente, comparando opciones según sus necesidades y preferencias. (Adultos Jóvenes (18-35 años), Profesionales Ocupados)

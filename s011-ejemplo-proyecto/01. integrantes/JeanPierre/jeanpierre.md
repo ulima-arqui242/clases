@@ -1,4 +1,4 @@
-# Bill Gates
+# Jean Pierre
 
 ![Bill Gates](gates.jpeg)
 

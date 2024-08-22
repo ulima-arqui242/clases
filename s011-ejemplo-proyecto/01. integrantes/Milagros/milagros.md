@@ -22,3 +22,8 @@
 Aprender mas sobre la arquitectura del software
 #### Como me veo en 10 años:
 Nose, no tengo expectativas de mi misma 
+
+
+[Ver integrantes](../integrantes.md)
+
+[Regresar al índice](../../proyecto.md)

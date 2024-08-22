@@ -48,11 +48,17 @@ A continuación, se detallan las características y necesidades de cada segmento
 - **Clientes Usuarios Finales** : Personas que buscan acceder a servicios de belleza de manera conveniente, comparando opciones según sus necesidades y preferencias. (Adultos Jóvenes (18-35 años), Profesionales Ocupados)
 
 ***Canales de Distribución:***
+
 ***Relaciones con clientes:***
+
 ***Fuentes de Ingresos:***
+
 ***Recursos Clave***
+
 ***Actividades Clave***
+
 ***Socios Clave:***
+
 ***Estructura de Costos:***
 
 

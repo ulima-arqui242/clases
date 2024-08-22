@@ -1,8 +1,28 @@
-# Bill Gates
+## Datos
+#### Nombre: Milagros Corbera
+#### Carrera: Ing de Sistemas
+#### Experiencia en software:
+- QA Trainee en Rextie (Ago. 2024 - Actualidad)
+- Intern en Space Career Academy (Julio 2024 - Actualidad)
+- Front-End Developer Intern en Impulsa Studio (Oct. 2023 - Julio 2024)
+#### Tecnologias que manejo:
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Angular
+- ReactNative
+- Cucumber
+- Playwright
+- SQL
+- Python
+- R
+#### Expectativas del curso:
+Aprender mas sobre la arquitectura del software
+#### Como me veo en 10 años:
+Nose, no tengo expectativas de mi misma 
 
-![Bill Gates](gates.jpeg)
-
-Bill Gates es cofundador de Microsoft Corporation, donde lideró la compañía como CEO y presidente de la junta hasta principios de los 2000s. Es reconocido por haber revolucionado la industria del software personal. Actualmente, se dedica a la filantropía global a través de la Fundación Bill y Melinda Gates, enfocándose en salud, educación y desarrollo sostenible.
 
 [Ver integrantes](../integrantes.md)
 

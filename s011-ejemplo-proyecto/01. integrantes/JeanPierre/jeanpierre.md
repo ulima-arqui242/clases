@@ -3,7 +3,7 @@
 ![Bill Gates](gates.jpeg)
 
 # ¿Cual es mi experiencia en desarrollo de software?
-Mi experiencia se centra en el desarrollo de software a través de proyectos personales. Tengo un sólido conocimiento de herramientas web y móviles, incluyendo React, Angular, Express, Kotlin y Flutter, entre otras. También manejo plataformas en la nube como Google Cloud y Firebase, así como integraciones con APIs externas.
+Mi experiencia se centra en el desarrollo de software mediante proyectos personales. He creado aplicaciones web y móviles que varían desde soluciones simples hasta software complejo, utilizando distintos frameworks.
 
 # ¿Que tecnologias conozco o domino?
 Tengo un sólido conocimiento de herramientas web y móviles, incluyendo React, Angular, Express, Kotlin y Flutter, entre otras. También manejo plataformas en la nube como Google Cloud y Firebase, así como integraciones con APIs externas.

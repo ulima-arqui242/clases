@@ -1,9 +1,9 @@
 # Integrantes del grupo
 
-- [Juan Alva](juan/juan.md)
-- [Jean Pierre Tinco](jeanpierre/jeanpierre.md)
-- [Sebastian Camayo](sebastian/sebastian.md)
-- [Milagros Corbera](milagros/milagros.md)
-- [Junior Huaman](junior/junior.md)
+- [Juan Alva](Juan/juan.md)
+- [Jean Pierre Tinco](Jeanpierre/jeanpierre.md)
+- [Sebastian Camayo](Sebastian/sebastian.md)
+- [Milagros Corbera](Milagros/milagros.md)
+- [Junior Huaman](Junior/junior.md)
 
 [Regresar al índice](../proyecto.md)

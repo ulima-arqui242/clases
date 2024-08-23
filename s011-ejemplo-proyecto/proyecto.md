@@ -10,6 +10,13 @@ Bienvenidos al repositorio del Proyecto del Curso del Grupo 10. Aquí encontrar�
 ## Tema de proyecto: InStudio
 InStudio es una aplicación web diseñada para conectar a los usuarios con una variedad de salones de belleza (PYMES) pequeños y medianos. InStudio permite a los salones registrarse y administrar sus servicios, mientras que los clientes pueden explorar, comparar ,dejar reseñas fácilmente y reservar una cita en el spa deseado.
 
+## Modulos
+- Gestión de Reservas
+- Notificaciones
+- Gestión de Ofertas
+- Auth/Seguridad - Gestión de Pagos
+- Analítica -> Descarga de Datos Masivos
+
 **1. Caso de Negocio**
 
 **1.1. Generalidades**

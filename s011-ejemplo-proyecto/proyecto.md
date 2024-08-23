@@ -11,11 +11,11 @@ Bienvenidos al repositorio del Proyecto del Curso del Grupo 10. Aquí encontrar�
 InStudio es una aplicación web diseñada para conectar a los usuarios con una variedad de salones de belleza (PYMES) pequeños y medianos. InStudio permite a los salones registrarse y administrar sus servicios, mientras que los clientes pueden explorar, comparar ,dejar reseñas fácilmente y reservar una cita en el spa deseado.
 
 ## Modulos
-- Gestión de Reservas
-- Notificaciones
-- Gestión de Ofertas
-- Auth/Seguridad - Gestión de Pagos
-- Analítica -> Descarga de Datos Masivos
+- **Gestión de Reservas:** Este módulo permite a los usuarios realizar, modificar, y cancelar reservas en salones de belleza. Los salones pueden administrar sus horarios, gestionar la disponibilidad de servicios y personal, y confirmar o rechazar citas.
+- **Notificaciones:**  El sistema de notificaciones es fundamental para mantener a los usuarios y salones informados sobre sus actividades dentro de la plataforma. Notificaciones push y correos electrónicos para confirmaciones de reserva, recordatorios de citas, y ofertas especiales.
+- **Gestión de Ofertas:**  Este módulo permite a los salones de belleza crear y gestionar promociones y ofertas especiales para atraer más clientes. Creación de ofertas con fechas de inicio y fin, descuentos, y condiciones especiales. Visualización de las ofertas en la página principal de cada salón.
+- **Auth/Seguridad - Gestión de Pagos:** Este módulo asegura que la plataforma sea segura para todos los usuarios y facilita la gestión de pagos por parte de los clientes. Autenticación y autorización de usuarios.  Gestión de facturación para la reservas.
+- **Analítica -> Descarga de Datos Masivos:** Este módulo proporciona a los salones herramientas para analizar el rendimiento de sus servicios, la satisfacción de sus clientes, y la efectividad de sus promociones. Dashboards personalizables con métricas clave como número de reservas, ingresos generados, y tasa de cancelación. Permite a los administradores exportar datos detallados en formato CSV o Excel para un análisis más profundo fuera de la plataforma. Esto incluye datos de reservas, pagos, y reseñas, facilitando la integración con herramientas de BI.
 
 **1. Caso de Negocio**
 

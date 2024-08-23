@@ -8,7 +8,7 @@ Bienvenidos al repositorio del Proyecto del Curso del Grupo 10. Aquí encontrar�
 2. Tema del Proyecto
 
 ## Tema de proyecto: InStudio
-InStudio es una aplicación web diseñada para conectar a los usuarios con una variedad de salones de belleza (PYMES) pequeños y medianos. InStudio permite a los salones registrarse y administrar sus servicios, mientras que los clientes pueden explorar, comparar y dejar reseñas fácilmente.
+InStudio es una aplicación web diseñada para conectar a los usuarios con una variedad de salones de belleza (PYMES) pequeños y medianos. InStudio permite a los salones registrarse y administrar sus servicios, mientras que los clientes pueden explorar, comparar ,dejar reseñas fácilmente y reservar una cita en el spa deseado.
 
 **1. Caso de Negocio**
 
@@ -29,12 +29,15 @@ Tras la pandemia, el sector de la belleza en Perú no se ha podido recuperar y a
   - **Gestión Centralizada:** Los salones pueden gestionar su perfil, actualizar sus servicios, precios, y promociones en tiempo real, lo que facilita la adaptación a las necesidades del mercado.
   - **Reducción de Costos de Marketing:** Al utilizar InStudio, los salones pueden reducir los costos asociados con la publicidad tradicional, aprovechando la exposición que la plataforma les brinda.
   - **Fidelización de Clientes:** Mediante un sistema de reseñas y valoraciones, los salones pueden obtener feedback directo de sus clientes, mejorando la calidad del servicio y aumentando la lealtad de sus usuarios.
+  - **Ver Ordenes de sus Clientes:** Los spas podran ver las ordenes realizadas por sus clientes, gestionar sus horarios para citas
+  - **Analítica** : Dashboarding de métricas clave del negocio 
 
 ****Para los Clientes:****
 
 - **Comodidad y Facilidad de Uso:** InStudio permite a los usuarios explorar y comparar múltiples opciones de salones de belleza desde la comodidad de sus hogares, con información detallada y actualizada sobre servicios, precios, y horarios.
 - **Transparencia y Confianza:** Los usuarios pueden tomar decisiones informadas basadas en las reseñas y valoraciones de otros clientes, asegurándose de recibir un servicio de calidad.
 - **Ofertas y Promociones Exclusivas:** Los clientes pueden acceder a ofertas especiales y descuentos exclusivos al reservar a través de la plataforma, lo que les permite ahorrar dinero mientras disfrutan de servicios de belleza.
+- **Reservar cita online mediante módulo de pago**: Reservar en el spa deseado el servicio que deseen --> Ver disponibilidad de citas
 
 ***Segmento de Clientes***:
 

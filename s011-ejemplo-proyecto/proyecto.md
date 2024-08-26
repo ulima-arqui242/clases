@@ -58,19 +58,32 @@ A continuación, se detallan las características y necesidades de cada segmento
 - **Clientes Usuarios Finales** : Personas que buscan acceder a servicios de belleza de manera conveniente, comparando opciones según sus necesidades y preferencias. (Adultos Jóvenes (18-35 años), Profesionales Ocupados)
 
 ***Canales de Distribución:***
+- **Plataforma Web** : Acceso a la plataforma a través de navegadores web. 
+- **Redes sociales** : Atraer clientes potenciales a través de redes sociales como Facebook e Instagram.
 
 ***Relaciones con clientes:***
-
+- **Soporte** : Los clientes podrán contactar con el equipo de soporte a través de correo electrónico para resolver cualquier duda o problema que tengan.
+- 
 ***Fuentes de Ingresos:***
+- **Comisiones por reservas** : Por cada reserva o transacción realizada por la plataforma, se obtendrá una comisión.
+- **Suscripciones de Salones** : Se ofrece una suscripción mensual o anual para salones de belleza que deseen funcionalidades extras como análisis avanzados de su visibilidad y la captación generada por el aplicativo.
 
 ***Recursos Clave***
+- **Equipo de desarrollo** : Equipo de desarrollo para la creación de la aplicación.
+- **Infraestructura en la nube**: Servicios en la nube para almacenar y procesar datos.
+- **Integración de Pago** : Integración con servicios para crear transacciones de pago.
 
 ***Actividades Clave***
+- **Desarrollo de la aplicación** : Desarrollar y asegurar el funcionamiento correcto de la aplicación.
+- **Afiliación con salones** : Atraer y contactar salones de belleza para la aplicación.
+- **Seguridad** : Asegurar la protección de datos y transacciones generadas por la plataforma.
 
 ***Socios Clave:***
+ - **Proveedores de Servicios en la Nube** : Servicios de AWS o Firebase para almacenamiento, procesamiento y gestión de datos.
 
 ***Estructura de Costos:***
-
+ - **Desarrollo y Mantenimiento** : Costos asociados con el desarrollo de software.
+ - **Integración de Servicios** : Costos por el uso de servicios para generar las transacciones y servicios en la nube como AWS o Firebase.
 
 **1.3. Estructura del Equipo**
 

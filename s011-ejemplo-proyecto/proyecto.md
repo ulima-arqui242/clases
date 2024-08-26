@@ -63,7 +63,7 @@ A continuación, se detallan las características y necesidades de cada segmento
 
 ***Relaciones con clientes:***
 - **Soporte** : Los clientes podrán contactar con el equipo de soporte a través de correo electrónico para resolver cualquier duda o problema que tengan.
-- 
+
 ***Fuentes de Ingresos:***
 - **Comisiones por reservas** : Por cada reserva o transacción realizada por la plataforma, se obtendrá una comisión.
 - **Suscripciones de Salones** : Se ofrece una suscripción mensual o anual para salones de belleza que deseen funcionalidades extras como análisis avanzados de su visibilidad y la captación generada por el aplicativo.
@@ -80,6 +80,7 @@ A continuación, se detallan las características y necesidades de cada segmento
 
 ***Socios Clave:***
  - **Proveedores de Servicios en la Nube** : Servicios de AWS o Firebase para almacenamiento, procesamiento y gestión de datos.
+ - **Salones de belleza** : Utilizarán el aplicativo.
 
 ***Estructura de Costos:***
  - **Desarrollo y Mantenimiento** : Costos asociados con el desarrollo de software.

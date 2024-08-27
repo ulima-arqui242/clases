@@ -28,7 +28,9 @@ Tras la pandemia, el sector de la belleza en Perú no se ha podido recuperar y a
 **1.2. Modelo de Negocio**
 
 **Canvas de Modelo de Negocio**
-Ruta de enlace al Canvas de InStudio: https://www.canva.com/design/DAGPE7GwV5E/_zWjxflfOcCKQ94MVStm_g/view?utm_content=DAGPE7GwV5E&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+- Ruta de enlace al Canvas de InStudio: 
+  https://www.canva.com/design/DAGPE7GwV5E/_zWjxflfOcCKQ94MVStm_g/view?utm_content=DAGPE7GwV5E&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ![alt text](<Canvas de Modelo de Negocio Tabla para estrategia planeación negocio pastel moderno.png>)
 

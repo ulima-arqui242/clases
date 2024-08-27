@@ -44,3 +44,13 @@ Nuestro equipo en InStudio está compuesto por expertos con experiencia en tecno
 - Equipo de Desarrollo: Ingenieros y diseñadores dedicados a la creación y mejora continua de la plataforma.
 - Equipo de Atención al Cliente: Proporciona soporte en línea y asistencia a salones y clientes.
 - Equipo de Marketing: Encargado de las estrategias de promoción y publicidad para atraer y retener usuarios.
+
+**1.4. Listado de Stakeholders**
+
+| **Stakeholder** | **Rol** | **Responsabilidad** | **Interés en la arquitectura** |
+| --- | --- | --- | --- |
+| Salones de belleza | Cliente | Usan la plataforma para gestionar servicios y reservas | Asegurar que la plataforma sea fácil de usar y eficaz en la gestión de citas y clientes |
+| Clientes (usuarios finales) | Cliente | Utilizan la plataforma para buscar y reservar servicios de belleza | Garantizar una experiencia de usuario fluida y accesible |
+| Inversionistas y accionistas | Conformance Checker | Invierten en el proyecto y esperan retorno de inversión | Verificar que la plataforma cumpla con los estándares de calidad y la hoja de ruta del proyecto |
+| Reguladores y organismos de protección de datos | Representante de Sistema Externo | Aseguran el cumplimiento con regulaciones de privacidad y seguridad | Definir los requisitos y asegurar el cumplimiento con las leyes de protección de datos |
+| Colaboradores | Ingeniero de sistemas | Responsable del diseño de sistemas o componentes | Asegurar el entorno provisto por el sistema |

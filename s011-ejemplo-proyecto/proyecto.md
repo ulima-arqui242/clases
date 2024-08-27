@@ -36,3 +36,11 @@ Tras la pandemia, el sector de la belleza en Perú no se ha podido recuperar y a
 
 **1.3. Estructura del Equipo**
 
+Nuestro equipo en InStudio está compuesto por expertos con experiencia en tecnología, belleza y gestión empresarial:
+
+- CEO: Lidera la visión estratégica y el crecimiento general de InStudio.
+- CTO: Supervisa el desarrollo y mantenimiento de la plataforma digital.
+- COO: Gestiona las operaciones diarias y establece alianzas estratégicas con salones de belleza.
+- Equipo de Desarrollo: Ingenieros y diseñadores dedicados a la creación y mejora continua de la plataforma.
+- Equipo de Atención al Cliente: Proporciona soporte en línea y asistencia a salones y clientes.
+- Equipo de Marketing: Encargado de las estrategias de promoción y publicidad para atraer y retener usuarios.
